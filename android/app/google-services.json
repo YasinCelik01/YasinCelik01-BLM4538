@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773487578616",
+    "project_id": "arabasatis-51235",
+    "storage_bucket": "arabasatis-51235.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773487578616:android:9fa0a867a38a5a2656da0d",
+        "android_client_info": {
+          "package_name": "com.arabasatis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWvkKvUGv1vymZ5wl3YXDshVeu6oeP3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
