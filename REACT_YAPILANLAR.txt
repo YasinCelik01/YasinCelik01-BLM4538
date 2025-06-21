@@ -1,0 +1,53 @@
+#PROJEDE PLANLANAN AMA EKLENEMEYEN ÖZELLİKLER
+
+-Kullanıcılar arasında mesajlaşma özelliği
+
+
+
+#PROJENİN SAYFA YAPISI
+
+##ANASAYFA 
+
+Kullanıcıların giriş yaptıktan sonra karşılaştıkları ekrandır. Uygulamadaki araba ilanları bu 
+sayfada gösterilmektedir. Sayfanın en altında bulunan bar kısmında çeşitli butonlar 
+bulunmaktadır kullanıcı hangi işlemi yapmak istiyorsa onu seçebilir. Sayfanın üst kısmında ise 
+filtreler butonu yer almaktadır, kullanıcılar ilanı filtrelere göre listeleyebilirler.
+
+##KULLANICI KAYIT SAYFASI
+
+Kullanıcı kayıt olmak istediğinde bu sayfaya gelir ve gerekli bilgileri girerek kaydolma 
+işlemini gerçekleştirir. 
+
+##LOGİN SAYFASI
+
+Kullanıcı giriş yapmak istediğinde bu sayfaya gelir ve gerekli bilgileri girerek login işlemini 
+gerçekleştirir.
+
+##PROFİL SAYFASI
+
+Profil sayfası kullanıcı giriş yaptıktan sonra erişilen bir sayfadır. Eğer kullanıcı admin 
+yetkisine sahipse sadece admin kullanıcılarına özel admin panel butonu vardır. 
+
+## HESAP SİLME
+
+Hesabımı sil butonuna basıldığında aşağıdaki gibi bir uyarı çıkar ve kullanıcının yanlışlıkla 
+hesabını silmesine engel olunur. Eğer silme işlemini gerçekleştirmek istiyorsa çıkan uyarıda  
+HESABI SİL butonuna basması yeterlidir.
+
+## İLAN VERME SAYFASI
+ 
+İlan ver sayfası araçla ilgili bilgilerin girilip admin onayına gönderildiği sayfadır. 
+
+##ARAÇLARIM SAYFASI
+
+İlanlarım sayfasında kullanıcılar ilandaki araçlarını ve ilana çıkmak için bekleyen araçlarını 
+görebilirler, araç ilanlarını silebilirler ve admin onay durumunu görebilirler.
+
+##FAVORİLERİM SAYFASI 
+
+Favorilerim sayfasına kullanıcının favorilere eklediği araçlar listelenmektedir. 
+
+##FİLTRELEME EKRANI
+ 
+Anasayfada bulunan ilanları uygun özelliklere göre filtrelemeyi sağlar. 
+
