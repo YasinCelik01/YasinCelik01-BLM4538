@@ -1,1 +1,1 @@
-# YasinCelik01-BLM4538---IOS-le-Mobil-Uygulama-Geli-tirme-II-
+# Video Linki Youtube - https://youtu.be/zA2yF_yKAKg 
